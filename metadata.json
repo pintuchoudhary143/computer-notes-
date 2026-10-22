@@ -1,0 +1,6 @@
+{
+  "name": "Class 9 Computer IT Master Notes & Q&A Portal",
+  "description": "राजस्थान बोर्ड कक्षा 9 सूचना प्रौद्योगिकी (IT) के सभी 8 अध्यायों के सम्पूर्ण नोट्स, रेखाचित्र, क्विक रिवीज़न, प्रश्नोत्तरी एवं प्रिंटेबल PDF स्टडी गाइड।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
